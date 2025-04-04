@@ -3,6 +3,13 @@
 ## Overview
 This project focuses on analyzing microarray and RNA-Seq data to identify differentially expressed genes (DEGs) and validate them using machine learning techniques. The workflow includes data extraction, normalization, DEG identification, and machine learning validation, supported by various visualizations like volcano plots, PCA, t-SNE, and ROC curves.
 
+## Graphical Abstract
+![Graphical Abstract](figure/Figure-01_Graphical_Abstract.png)
+
+## Citation
+For the complete details of this study, please refer to our published work:
+> **Debnath, J.P., Hossen, K. et al.** Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach. *Scientific Reports*, 15, 2922 (2025). [https://doi.org/10.1038/s41598-024-80519-7](https://doi.org/10.1038/s41598-024-80519-7)
+
 ## Workflow
 
 ### 1. Data Extraction
